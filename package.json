@@ -1,0 +1,23 @@
+{
+  "name": "css-block",
+  "version": "1.0.0",
+  "description": "A simple block css module for styling a responsive block component",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenIseki/css-block.git"
+  },
+  "keywords": [
+    "css",
+    "css-module",
+    "css module",
+    "css-block",
+    "css block",
+    "css reusable block",
+    "css block css module",
+    "react",
+    "reactjs"
+  ],
+  "author": "Steven Iseki <stevenisekimartin@gmail.com>",
+  "license": "MIT"
+}
